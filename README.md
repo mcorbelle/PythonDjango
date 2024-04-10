@@ -8,7 +8,7 @@ Este es un proyecto REST API con Django, Python y MySQL, sin usar frameworks adi
 * [LinkedIn](hhttps://www.linkedin.com/in/mariano-corbelle-2a3038a/)
 
 ## Ver en vivo
-* [ver ](hhttps://mcorbelle.github.io)
+* [ver](hhttps://mcorbelle.github.io/)
   
 ## Contacto
 Si quieres contactarme puedes escribirme a marianocorbelle@gmail.com para consultas.
